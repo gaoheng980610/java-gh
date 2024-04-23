@@ -1,5 +1,5 @@
 {
-  "name": "java-command-line-calculator",
+  "name": "java-gh-main",
   "version": "1.0.0",
   "description": "This Java program is a simple command line calculator that supports basic arithmetic operations (+, -, *, /). Users can enter two numbers and an operator to perform calculations. Use this calculator for quick mathematical computations in the terminal.",
   "main": "program.js",
@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaoheng980610/java-gh"
+    "url": "git+https://github.com/gaoheng980610/java-gh.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "gh",
   "license": "ISC",
-  "dependencies": {
-    "guava": "^30.1-jre",
-    "commons-lang3": "^3.12.0",
-    "junit": "^4.13.2",
-    "javascript-todo-list-application": "^1.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/gaoheng980610/java-gh/issues"
+  },
+  "homepage": "https://github.com/gaoheng980610/java-gh#readme"
 }
